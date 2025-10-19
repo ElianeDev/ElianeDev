@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Eliane!
 
-<!--
-**ElianeDev/ElianeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Future ADS Student* | Starting 2026 @ UNIFECAF  
+🚀 *Aspiring Fullstack Developer* | JavaScript  
+💡 *Currently Learning:* Programming Logic | Git & GitHub
 
-Here are some ideas to get you started:
+## 🌱 My Journey
+- 📚 Studying programming fundamentals with Curso em Vídeo
+- 🎯 Building my first coding projects
+- 💪 Preparing for my degree in Systems Analysis and Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- 📧 Email: elianeaparecidabatistadias@gmail.com
+- 💼 GitHub: [@ElianeDev](https://github.com/ElianeDev)
+
+---
+
+"Every expert was once a beginner" ✨
